@@ -18,7 +18,7 @@ module.exports = {
     "specialelite": {
       "fontFamily": "Special Elite",
       "fontStyle": "normal",
-      "fontWeight": "700",
+      "fontWeight": "400",
       "local": [ "Special Elite", "SpecialElite" ]
     }
   }
