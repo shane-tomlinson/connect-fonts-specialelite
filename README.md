@@ -47,7 +47,7 @@ const specialelite = require("connect-fonts-specialelite");
 
 ## Credits
 
-Original font set downloaded from fontsquirrel.com. Special Elite created by [Adobe](http://www.adobe.com/)
+Original font set downloaded from fontsquirrel.com. Special Elite created by [Astigmatic One Eye Typographic Institute](http://www.astigmatic.com/)
 
 ## License
 
