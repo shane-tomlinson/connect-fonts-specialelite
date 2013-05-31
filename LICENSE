@@ -1,18 +1,20 @@
-This software is licenced under version 2.0 of the MPL
+Software: Licenced under version 2.0 of the MPL
 
   https://www.mozilla.org/MPL/
 
-Fonts are licensed under version 2.0 of the Apache License
+Fonts: Licensed under version 2.0 of the Apache
 
-  http://www.apache.org/licenses/
+  http://www.apache.org/licenses/LICENSE-2.0
 
-==============
+=======================
 
 This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this file,
 You can obtain one at http://mozilla.org/MPL/2.0/.
 
-==============
+======================
+
+Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.http://www.apache.org/licenses/LICENSE-2.0.html
 
                                  Apache License
                            Version 2.0, January 2004
@@ -215,5 +217,4 @@ You can obtain one at http://mozilla.org/MPL/2.0/.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
 
